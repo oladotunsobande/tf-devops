@@ -22,7 +22,7 @@ $ terraform plan
 To effect/execute the plan, run the following command:
 
 ```
-$ terrform apply
+$ terraform apply
 ```
 
 ## Platforms
