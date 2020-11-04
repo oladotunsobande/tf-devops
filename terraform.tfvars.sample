@@ -1,0 +1,6 @@
+aws_region=""
+aws_access_key=""
+aws_secret_key=""
+ec2_user=""
+aws_ami=""
+instance_type=""
